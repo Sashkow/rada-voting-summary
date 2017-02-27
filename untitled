@@ -1,0 +1,24 @@
+
+ask if they do not coninside
+
+merge all rtf into one folder
+
+for rtf in rtfs
+	
+to txt
+
+get_yes
+get_no
+get_abstained
+get_absent
+
+{"voter's name":{'yes':1, 'no':2, ...}, ...}
+
+to tsv
+
+add missing voters as absent
+	
+	get all unique voters
+
+	if voter not in txt file add him as absent
+
